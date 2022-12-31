@@ -2,7 +2,7 @@
     <table class="table" id="matkuls-table">
         <thead>
         <tr>
-            <th>Nama Matkul</th>
+        <th>Nama Matkul</th>
         <th>Dosen</th>
         <th>SKS</th>
         <th>Jumlah Mahasiswa</th>
